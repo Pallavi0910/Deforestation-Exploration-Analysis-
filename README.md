@@ -8,3 +8,5 @@ ForestQuery has obtained data from the World Bank that includes forest area and 
 
 I have used SQL to bring these tables together and to query them in an effort to find areas of concern as well as areas that present an opportunity to learn from
 successes.
+
+Please find the detailed analysis on Deforestation attached as a pdf document.
